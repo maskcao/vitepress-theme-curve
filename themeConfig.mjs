@@ -3,25 +3,25 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "Sonic",
     // 站点描述
     description: "Hello World",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog.imsyy.top",
+    site: "https://blog2.maskcao.top",
     // 语言
     lang: "zh-CN",
     // 作者
     author: {
       name: "Admin",
       cover: "/images/logo/logo.webp",
-      email: "114514@gmail.com",
-      link: "https://www.imsyy.top",
+      email: "374347001@qq.com",
+      link: "https://home.maskcao.top",
     },
   },
   // 备案信息
-  icp: "萌ICP备114514号",
+  icp: "豫ICP备2023020642号",
   // 建站日期
   since: "2020-07-28",
   // 每页文章数据
@@ -154,8 +154,8 @@ export const themeConfig = {
         },
         {
           icon: "/images/logo/logo.webp",
-          name: "博客镜像站",
-          url: "https://blog-backup.imsyy.top/",
+          name: "博客",
+          url: "https://blog.maskcao.top/",
         },
       ],
     },
@@ -163,19 +163,9 @@ export const themeConfig = {
       name: "服务",
       list: [
         {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
-          name: "起始页",
-          url: "https://nav.imsyy.top/",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
+          icon: "/images/logo/logo.webp",
           name: "今日热榜",
           url: "https://hot.imsyy.top/",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
-          name: "站点监测",
-          url: "https://status.imsyy.top/",
         },
       ],
     },
@@ -188,29 +178,9 @@ export const themeConfig = {
           url: "https://github.com/imsyy/vitepress-theme-curve",
         },
         {
-          icon: "https://pic.efefee.cn/uploads/2024/04/07/66124f5fc63c8.png",
-          name: "SPlayer",
-          url: "https://github.com/imsyy/SPlayer",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
-          name: "Snavigation",
-          url: "https://github.com/imsyy/SPlayer",
-        },
-        {
           icon: "/images/logo/logo.webp",
           name: "Home",
           url: "https://github.com/imsyy/home",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
-          name: "DailyHotApi",
-          url: "https://github.com/imsyy/DailyHotApi",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
-          name: "site-status",
-          url: "https://github.com/imsyy/site-status",
         },
       ],
     },
@@ -227,9 +197,10 @@ export const themeConfig = {
       coverLayout: 'both',
       // 默认封面(随机展示)
       defaultCover: [
-        'https://example.com/1.avif',
-        'https://example.com/2.avif',
-        'https://example.com/3.avif'
+        'https://ice.frostsky.com/2024/11/22/b603da5ca30c73dc7bf962590fd554ad.png',
+        'https://ice.frostsky.com/2024/11/22/04c189f3576ac25aea693535d2de7375.jpeg',
+        'https://ice.frostsky.com/2024/11/22/f7c892024bd2b4b08836f3d2b219adb1.png',
+        'https://ice.frostsky.com/2024/11/22/0d628dbf523de3713568db129a6f936d.jpeg'
       ]
     }
   },
@@ -239,27 +210,27 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:one@imsyy.top",
+        link: "mailto:374347001@qq.com",
       },
       {
         icon: "github",
-        link: "https://www.github.com/imsyy/",
+        link: "https://www.github.com/maskcao/",
       },
       {
         icon: "telegram",
-        link: "https://t.me/bottom_user",
+        link: "https://t.me/sonic_cao",
       },
       {
         icon: "bilibili",
-        link: "https://space.bilibili.com/98544142",
+        link: "https://space.bilibili.com/392667019",
       },
       {
         icon: "qq",
-        link: "https://res.abeim.cn/api/qq/?qq=1539250352",
+        link: "https://res.abeim.cn/api/qq/?qq=374347001",
       },
       {
         icon: "twitter-x",
-        link: "https://twitter.com/iimmsyy",
+        link: "https://x.com/MaskCao",
       },
     ],
     // sitemap
