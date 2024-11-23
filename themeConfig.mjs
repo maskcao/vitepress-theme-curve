@@ -3,9 +3,9 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Sonic",
+    title: "叶川の小栈",
     // 站点描述
-    description: "Hello World",
+    description: "Hello Hacker！",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
@@ -14,7 +14,7 @@ export const themeConfig = {
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
+      name: "sonic",
       cover: "/images/logo/logo.webp",
       email: "374347001@qq.com",
       link: "https://home.maskcao.top",
@@ -313,7 +313,7 @@ export const themeConfig = {
     // 站点简介
     hello: {
       enable: true,
-      text: "这里有关于<strong>开发</strong>相关的问题和看法，也会有一些<strong>奇技淫巧</strong>的分享，其中大部分内容会侧重于<strong>前端开发</strong>。希望你可以在这里找到对你有用的知识和教程。",
+      text: "这里有关于<strong> 网络安全</strong>相关的问题和看法，也会有一些<strong>奇技淫巧</strong>的分享，其中大部分内容会侧重于<strong>网络安全</strong>相关内容分享。作为个人笔记记忆使用，但也希望你可以在这里找到对你有用的知识和教程。",
     },
     // 目录
     toc: {
