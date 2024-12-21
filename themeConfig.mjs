@@ -197,10 +197,9 @@ export const themeConfig = {
       coverLayout: 'both',
       // 默认封面(随机展示)
       defaultCover: [
-        'https://ice.frostsky.com/2024/11/22/b603da5ca30c73dc7bf962590fd554ad.png',
-        'https://ice.frostsky.com/2024/11/22/04c189f3576ac25aea693535d2de7375.jpeg',
-        'https://ice.frostsky.com/2024/11/22/f7c892024bd2b4b08836f3d2b219adb1.png',
-        'https://ice.frostsky.com/2024/11/22/0d628dbf523de3713568db129a6f936d.jpeg'
+        'http://img.maskcao.top/blog-curve/cover/kali.jpg',
+        'hhttp://img.maskcao.top/blog-curve/cover/blackmyth.png',
+        'hhttp://img.maskcao.top/blog-curve/cover/springgreen.png'
       ]
     }
   },
