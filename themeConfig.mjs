@@ -174,13 +174,13 @@ export const themeConfig = {
       list: [
         {
           icon: "/images/logo/logo.webp",
-          name: "Curve",
-          url: "https://github.com/imsyy/vitepress-theme-curve",
+          name: "资源站",
+          url: "https://maskcao.top",
         },
         {
           icon: "/images/logo/logo.webp",
           name: "Home",
-          url: "https://github.com/imsyy/home",
+          url: "https://www.maskcao.top/",
         },
       ],
     },
