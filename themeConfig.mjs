@@ -180,7 +180,7 @@ export const themeConfig = {
         {
           icon: "/images/logo/logo.webp",
           name: "Home",
-          url: "https://www.maskcao.top/",
+          url: "https://m4sk.cn/",
         },
       ],
     },
