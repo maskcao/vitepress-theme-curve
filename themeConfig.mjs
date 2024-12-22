@@ -155,7 +155,7 @@ export const themeConfig = {
         {
           icon: "/images/logo/logo.webp",
           name: "博客",
-          url: "https://blog.maskcao.top/",
+          url: "https://www.maskcao.top/",
         },
       ],
     },
