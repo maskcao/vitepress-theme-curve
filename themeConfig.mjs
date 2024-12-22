@@ -197,9 +197,9 @@ export const themeConfig = {
       coverLayout: 'both',
       // 默认封面(随机展示)
       defaultCover: [
-        'http://img.maskcao.top/blog-curve/cover/kali.jpg',
-        'hhttp://img.maskcao.top/blog-curve/cover/blackmyth.png',
-        'hhttp://img.maskcao.top/blog-curve/cover/springgreen.png'
+        'https://img.maskcao.top/blog-curve/cover/kali.jpg',
+        'https://img.maskcao.top/blog-curve/cover/blackmyth.png',
+        'https://img.maskcao.top/blog-curve/cover/springgreen.png'
       ]
     }
   },
