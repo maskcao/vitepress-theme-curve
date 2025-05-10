@@ -5,15 +5,15 @@
       <!-- 介绍 -->
       <div class="about-item hello">
         <span class="text1">你好，很高兴认识你👋</span>
-        <span class="text2 title2">我是 無名</span>
-        <span class="text3">是一名 前端开发工程师、独立开发者、博主</span>
+        <span class="text2 title2">我是 叶川</span>
+        <span class="text3">是一名 网络安全工程师、自媒体博主</span>
       </div>
       <!-- 追求 -->
       <div class="about-item pursuit">
         <span class="tip">追求</span>
         <span class="title2">源于</span>
-        <span class="title2">热爱而去开发</span>
-        <span class="title2">优秀的作品</span>
+        <span class="title2">热爱而去学习</span>
+        <span class="title2">优秀的技术</span>
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 2fr 3fr">
@@ -44,8 +44,8 @@
           <i>無限進步</i>
         </span>
         <div class="list">
-          <span class="list-item" style="--color: #357ef5">ZZRVTC · 计算机应用技术</span>
-          <span class="list-item" style="--color: #eb372a">FE · 前端开发工程师</span>
+          <span class="list-item" style="--color: #357ef5">ZZRVTC · 网络安全</span>
+          <span class="list-item" style="--color: #eb372a">FE · 网络安全工程师</span>
         </div>
         <img
           class="career-img"
@@ -144,7 +144,7 @@
           class="about-item map image"
           style="background-image: url(https://pic.efefee.cn/uploads/2024/04/15/661cbccc56af5.webp)"
         >
-          <span class="position">我现在住在 <strong>中国，河南省</strong></span>
+          <span class="position">我现在住在 <strong>中国，江苏省，南京市</strong></span>
         </div>
         <div class="about-item info">
           <div class="info-item">
@@ -153,7 +153,7 @@
           </div>
           <div class="info-item">
             <span class="info-name">现在职业</span>
-            <span class="info-num" style="--color: #dfac46">前端开发工程师</span>
+            <span class="info-num" style="--color: #dfac46">网络安全工程师</span>
           </div>
         </div>
       </div>
