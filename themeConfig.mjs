@@ -126,16 +126,20 @@ export const themeConfig = {
         { text: "效率工具", link: "/pages/tools", icon: "tools" },
       ],
     },
-    {
+    [
+      {
         "text": "友链",
         "link": "/pages/link",
         "icon": "people",
-    },
-    {
-        "text": "关于本站", 
+      },
+    ],
+    [
+      {
+        "text": "我的", 
         "link": "/pages/about", 
         "icon": "contacts" ,
-    }
+      },
+    ],
   ],
   // 导航栏菜单 - 左侧
   navMore: [
