@@ -127,14 +127,18 @@ export const themeConfig = {
       ],
     },
     {
+      [
         "text": "友链",
         "link": "/pages/link",
         "icon": "people",
+      ],
     },
     {
+      [
         "text": "我的", 
         "link": "/pages/about", 
         "icon": "contacts" ,
+       ],
     },
   ],
   // 导航栏菜单 - 左侧
