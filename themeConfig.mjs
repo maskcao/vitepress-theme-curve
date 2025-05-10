@@ -9,7 +9,7 @@ export const themeConfig = {
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog2.maskcao.top",
+    site: "https://blog.m4sk.cn",
     // 语言
     lang: "zh-CN",
     // 作者
@@ -17,7 +17,7 @@ export const themeConfig = {
       name: "sonic",
       cover: "/images/logo/logo.webp",
       email: "374347001@qq.com",
-      link: "https://home.maskcao.top",
+      link: "https://m4sk.cn",
     },
   },
   // 备案信息
