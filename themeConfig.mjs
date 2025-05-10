@@ -121,25 +121,21 @@ export const themeConfig = {
     {
       text: "专栏",
       items: [
-        { text: "技术分享", link: "/pages/categories/技术分享", icon: "technical" },
+        { text: "技术分享", link: "/pages/categories/工具使用", icon: "technical" },
         { text: "我的项目", link: "/pages/project", icon: "code" },
         { text: "效率工具", link: "/pages/tools", icon: "tools" },
       ],
     },
-    [
-      {
+    {
         "text": "友链",
         "link": "/pages/link",
         "icon": "people",
-      },
-    ],
-    [
-      {
+    },
+    {
         "text": "我的", 
         "link": "/pages/about", 
         "icon": "contacts" ,
-      },
-    ],
+    },
   ],
   // 导航栏菜单 - 左侧
   navMore: [
