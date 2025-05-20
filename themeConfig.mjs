@@ -145,12 +145,12 @@ export const themeConfig = {
       list: [
         {
           icon: "/images/logo/logo.webp",
-          name: "主站",
+          name: "Curve博客",
           url: "/",
         },
         {
           icon: "/images/logo/logo.webp",
-          name: "博客",
+          name: "Notion博客",
           url: "https://www.maskcao.top/",
         },
       ],
